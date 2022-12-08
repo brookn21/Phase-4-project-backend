@@ -1,0 +1,2 @@
+class DarkSide < ApplicationRecord
+end

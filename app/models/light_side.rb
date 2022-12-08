@@ -1,0 +1,2 @@
+class LightSide < ApplicationRecord
+end

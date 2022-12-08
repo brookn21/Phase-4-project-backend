@@ -1,0 +1,2 @@
+class DarkSidesController < ApplicationController
+end
